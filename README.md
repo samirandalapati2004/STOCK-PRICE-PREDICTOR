@@ -103,3 +103,4 @@ now, since they're separate bodies of work:
 - yfinance's `news` response schema has changed across versions; if
   `fetch_news` ever returns an empty list unexpectedly, check
   `yfinance.__version__` and the actual shape of `Ticker(ticker).news`.
+# STOCK-PRICE-PREDICTOR
